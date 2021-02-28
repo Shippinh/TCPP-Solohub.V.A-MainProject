@@ -1,0 +1,13 @@
+D:\Записи пар\ТСПП\Лаб\Практика\TCPP-Solohub.V.A-MainProject\ConsoleApp\bin\Debug\netcoreapp3.1\ConsoleApp.exe
+D:\Записи пар\ТСПП\Лаб\Практика\TCPP-Solohub.V.A-MainProject\ConsoleApp\bin\Debug\netcoreapp3.1\ConsoleApp.deps.json
+D:\Записи пар\ТСПП\Лаб\Практика\TCPP-Solohub.V.A-MainProject\ConsoleApp\bin\Debug\netcoreapp3.1\ConsoleApp.runtimeconfig.json
+D:\Записи пар\ТСПП\Лаб\Практика\TCPP-Solohub.V.A-MainProject\ConsoleApp\bin\Debug\netcoreapp3.1\ConsoleApp.runtimeconfig.dev.json
+D:\Записи пар\ТСПП\Лаб\Практика\TCPP-Solohub.V.A-MainProject\ConsoleApp\bin\Debug\netcoreapp3.1\ConsoleApp.dll
+D:\Записи пар\ТСПП\Лаб\Практика\TCPP-Solohub.V.A-MainProject\ConsoleApp\bin\Debug\netcoreapp3.1\ConsoleApp.pdb
+D:\Записи пар\ТСПП\Лаб\Практика\TCPP-Solohub.V.A-MainProject\ConsoleApp\obj\Debug\netcoreapp3.1\ConsoleApp.csprojAssemblyReference.cache
+D:\Записи пар\ТСПП\Лаб\Практика\TCPP-Solohub.V.A-MainProject\ConsoleApp\obj\Debug\netcoreapp3.1\ConsoleApp.AssemblyInfoInputs.cache
+D:\Записи пар\ТСПП\Лаб\Практика\TCPP-Solohub.V.A-MainProject\ConsoleApp\obj\Debug\netcoreapp3.1\ConsoleApp.AssemblyInfo.cs
+D:\Записи пар\ТСПП\Лаб\Практика\TCPP-Solohub.V.A-MainProject\ConsoleApp\obj\Debug\netcoreapp3.1\ConsoleApp.csproj.CoreCompileInputs.cache
+D:\Записи пар\ТСПП\Лаб\Практика\TCPP-Solohub.V.A-MainProject\ConsoleApp\obj\Debug\netcoreapp3.1\ConsoleApp.dll
+D:\Записи пар\ТСПП\Лаб\Практика\TCPP-Solohub.V.A-MainProject\ConsoleApp\obj\Debug\netcoreapp3.1\ConsoleApp.pdb
+D:\Записи пар\ТСПП\Лаб\Практика\TCPP-Solohub.V.A-MainProject\ConsoleApp\obj\Debug\netcoreapp3.1\ConsoleApp.genruntimeconfig.cache
